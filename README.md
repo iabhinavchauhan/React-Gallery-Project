@@ -86,7 +86,7 @@ This project was created to practice:
 * Modern frontend development with Vite
 * Project deployment using GitHub Pages
 
-## 🌐 Deployment
+## 🌐 Deployment 
 
 The project is deployed using **GitHub Pages**.
 
