@@ -6,7 +6,7 @@ A modern and responsive image gallery built with **React.js**. This project demo
 
 🔗 **[React Gallery](https://iabhinavchauhan.github.io/React-Gallery-Project/)**
 
-## ✨ Features
+##  Features
 
 * 📸 Beautiful image gallery
 * ⚛️ Built with React.js
@@ -16,7 +16,7 @@ A modern and responsive image gallery built with **React.js**. This project demo
 * ⚡ Fast and lightweight
 * 🖥️ Works across desktop, tablet, and mobile devices
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **React.js**
 * **JavaScript (ES6+)**
@@ -25,7 +25,7 @@ A modern and responsive image gallery built with **React.js**. This project demo
 * **Vite**
 * **Git & GitHub**
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 React-Gallery-Project/
