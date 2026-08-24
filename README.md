@@ -41,7 +41,7 @@ React-Gallery-Project/
 └── README.md
 ```
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 Clone the repository:
 
@@ -69,13 +69,13 @@ npm run dev
 
 The application will be available at the local development URL provided by Vite.
 
-## 📸 Preview
+## Preview
 
 Visit the live project:
 
 **https://iabhinavchauhan.github.io/React-Gallery-Project/**
 
-## 🎯 Learning Goals
+## Learning Goals
 
 This project was created to practice:
 
@@ -86,14 +86,14 @@ This project was created to practice:
 * Modern frontend development with Vite
 * Project deployment using GitHub Pages
 
-## 🌐 Deployment 
+## Deployment 
 
 The project is deployed using **GitHub Pages**.
 
 🔗 **Live Website:**
 https://iabhinavchauhan.github.io/React-Gallery-Project/
 
-## 👨‍💻 Author
+## Author
 
 ### Abhinav Chauhan
 
