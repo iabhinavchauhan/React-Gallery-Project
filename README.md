@@ -99,7 +99,3 @@ https://iabhinavchauhan.github.io/React-Gallery-Project/
 
 * GitHub: [@iabhinavchauhan](https://github.com/iabhinavchauhan)
 * LinkedIn: [@iabhinavchauhan](https://www.linkedin.com/in/iabhinavchauhan/)
-
----
-
-⭐ If you like this project, consider giving the repository a star!
