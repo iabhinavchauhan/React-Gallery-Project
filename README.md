@@ -42,7 +42,6 @@ React-Gallery-Project/
 ```
 
 ##  Installation & Setup
-
 Clone the repository:
 
 ```bash
@@ -90,7 +89,7 @@ This project was created to practice:
 
 The project is deployed using **GitHub Pages**.
 
-🔗 **Live Website:**
+**Live Website:**
 https://iabhinavchauhan.github.io/React-Gallery-Project/
 
 ## Author
