@@ -11,10 +11,10 @@ A modern and responsive image gallery built with **React.js**. This project demo
 * Beautiful image gallery
 * Built with React.js
 * Fully responsive design
-* 🎨 Clean and modern UI
-* 🧩 Component-based architecture
-* ⚡ Fast and lightweight
-* 🖥️ Works across desktop, tablet, and mobile devices
+* Clean and modern UI
+* Component-based architecture
+* Fast and lightweight
+* Works across desktop, tablet, and mobile devices
 
 ##  Tech Stack
 
