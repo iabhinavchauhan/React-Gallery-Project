@@ -67,8 +67,6 @@ The application will be available at the local development URL provided by Vite.
 
 ## Preview
 
-Visit the live project:
-
 **https://iabhinavchauhan.github.io/React-Gallery-Project/**
 
 ## Learning Goals
