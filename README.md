@@ -69,19 +69,7 @@ The application will be available at the local development URL provided by Vite.
 
 **https://iabhinavchauhan.github.io/React-Gallery-Project/**
 
-## Learning Goals
-
-This project was created to practice:
-
-* React component development
-* Reusable UI components
-* Responsive web design
-* JavaScript fundamentals
-* Modern frontend development with Vite
-* Project deployment using GitHub Pages
-
 ## Deployment 
-
 The project is deployed using **GitHub Pages**.
 
 **Live Website:**
