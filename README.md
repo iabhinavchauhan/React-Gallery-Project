@@ -74,7 +74,6 @@ The project is deployed using **GitHub Pages**.
 https://iabhinavchauhan.github.io/React-Gallery-Project/
 
 ## Author
-
 ### Abhinav Chauhan
 
 * GitHub: [@iabhinavchauhan](https://github.com/iabhinavchauhan)
