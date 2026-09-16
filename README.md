@@ -7,7 +7,6 @@ A modern and responsive image gallery built with **React.js**. This project demo
 🔗 **[React Gallery](https://iabhinavchauhan.github.io/React-Gallery-Project/)**
 
 ##  Features
-
 * Beautiful image gallery
 * Clean and modern UI
 * Fast and lightweight
