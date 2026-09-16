@@ -62,7 +62,6 @@ Start the development server:
 ```bash
 npm run dev
 ```
-
 The application will be available at the local development URL provided by Vite.
 
 ## Preview
