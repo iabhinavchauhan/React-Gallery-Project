@@ -11,7 +11,7 @@ A modern and responsive image gallery built with **React.js**. This project demo
 * Beautiful image gallery
 * Clean and modern UI
 * Fast and lightweight
-* Works across desktop, tablet, and mobile devices
+* Works across every device
 
 ##  Tech Stack
 
