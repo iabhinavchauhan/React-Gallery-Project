@@ -17,22 +17,6 @@
 * **Vite**
 * **Git & GitHub**
 
-##  Project Structure
-
-```text
-React-Gallery-Project/
-├── public/
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-├── index.html
-├── package.json
-└── README.md
-```
-
 ##  Installation & Setup
 Clone the repository:
 
